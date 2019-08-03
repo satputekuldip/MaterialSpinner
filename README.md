@@ -1,7 +1,7 @@
 # MaterialSpinner
 
 
-[![](https://jitpack.io/v/tiper/MaterialSpinner.svg)](https://jitpack.io/#tiper/MaterialSpinner)
+[![](https://jitpack.io/v/satputekuldip/MaterialSpinner.svg)](https://jitpack.io/#satputekuldip/MaterialSpinner)
 [![Kotlin Version](https://img.shields.io/badge/kotlin-1.3.40-blue.svg)](http://kotlinlang.org/)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
@@ -33,7 +33,7 @@ allprojects {
 Then, add the library to your module `build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.tiper:MaterialSpinner:latest.release.here'
+    implementation 'com.github.satputekuldip:MaterialSpinner:1.0'
 }
 ```
 
